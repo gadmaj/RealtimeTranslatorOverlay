@@ -9,7 +9,7 @@ public class Translate {
     private String apikey;
 
     public Translate(){
-        apikey = "AIzaSyC_OlOxgkCKdnyYLgUX2Xui5EYlluFo8Bc";
+        
         String targetLang = "en"; // for Spanish
         // Translate translate = TranslateOptions.newBuilder().setApiKey(apikey).build().getService();
         // Translation translation = translate.translate(text, Translate.TranslateOption.targetLanguage(targetLang));
